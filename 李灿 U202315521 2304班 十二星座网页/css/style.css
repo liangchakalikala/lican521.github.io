@@ -1,0 +1,22 @@
+*{margin:0;padding:0;}
+ul,li{ list-style:none;}
+
+a{ text-decoration:none;}
+ 
+
+body{ background:url(../images/bj.jpg) repeat; background-attachment:fixed; }
+#banner{width:996px;margin:0 auto;}
+
+
+#nav{width:996px;margin:0 auto;}
+
+
+#nav ul{overflow:hidden; height:40px; line-height:40px;background:#000;}
+#nav ul li{ float:left;margin-left:90px;}
+#nav ul li a{color:#fff;}
+.js1 h1{font-size:26px; color:red;}
+
+#cont{width:956px;margin:0 auto;overflow:hidden;background:#fff;padding:20px;}
+
+
+
